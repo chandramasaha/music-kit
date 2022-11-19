@@ -10,4 +10,4 @@ Each button plays the sound of the corresponding instrument on clicking. <br> Th
 
 
 
-**View the live deployment of the [music kit](https://chandramasaha.github.io)**
+**View the live deployment of the [music kit](https://chandramasaha.github.io/Music-Kit/)**

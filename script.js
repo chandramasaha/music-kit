@@ -14,3 +14,5 @@ function clicked(event) {
     const sound = new Audio(path);
     sound.play();
 }
+
+
